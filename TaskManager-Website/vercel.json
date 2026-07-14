@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/",            "destination": "/task_manager.html" },
+    { "source": "/(.*)", "destination": "/task_manager.html" }
+  ]
+}
